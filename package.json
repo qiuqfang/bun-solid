@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "bun build ./Button.tsx --jsx-import-source=solid-js --jsx=preserve"
+  },
+  "dependencies": {}
+}
